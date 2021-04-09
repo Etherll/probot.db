@@ -11,8 +11,8 @@ setup(
   long_description= long_description,
   author = 'Etherl',                   # Type in your name
   author_email = 'None@domain.com',      # Type in your E-Mail
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/Etherll/OKanime',    # I explain this later on
+  url = 'https://github.com/Etherll/probot.db',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/Etherll/probot.db',    # I explain this later on
   keywords = ['ok', 'ok anime', 'anime'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'requests',
