@@ -6,13 +6,13 @@ Store your data in ProBot database easily, using the embed messages feature, for
 ## Installation
 
 ```sh
-from ProbotDB import ProBotDB
+pip install ProBotDB
 ````
 
 ## Usage
 Now all you need is a server ID with ProBot, and your auth token from probot.io.
-```js
-import ProbotDB 
+```py
+from ProbotDB import ProBotDB
 
 database = ProBotDB('auth token', 'server ID', 'embed name')
 
