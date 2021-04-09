@@ -6,7 +6,7 @@ Store your data in ProBot database easily, using the embed messages feature, for
 ## Installation
 
 ```sh
-pip i -S probot.db
+pip install probot.db
 ````
 
 ## Usage
